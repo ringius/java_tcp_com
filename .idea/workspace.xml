@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="comtest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c882a2c7-ead3-4790-8c2f-07fabafa993a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/comtest_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_datatype_jackson_datatype_json_org_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/StringPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/CancelSubscriptionsRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ComClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ComHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ComReaderWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ComServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ConnectionBrokenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ConnectionProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/DataConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/DataObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/FaultyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/JsonReaderWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ObjectReaderWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/ReceivePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/SocketConnectionProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/SocketReaderWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/SubscribeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/se/edument/ringius/ge/com/TransportDescriptor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/se/edument/ringius/ge/com/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="968" />
+    <option name="y" value="83" />
+    <option name="width" value="1919" />
+    <option name="height" value="1500" />
+  </component>
+  <component name="ProjectId" id="1X7wgVRQsXTRQdSIEetZeXJAutY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555009642746" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../springTest/gs-rest-service" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32971996" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="se.edument.ringius.ge.com" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="se.edument.ringius.ge.com" />
+      <recent name="se.edument.ringius.ge.com," />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.server">
+    <configuration name="client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="se.edument.ringius.ge.com.Main" />
+      <module name="comtest" />
+      <option name="PROGRAM_PARAMETERS" value="client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="se.edument.ringius.ge.com.Main" />
+      <module name="comtest" />
+      <option name="PROGRAM_PARAMETERS" value="server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.client" />
+      <item itemvalue="Application.server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c882a2c7-ead3-4790-8c2f-07fabafa993a" name="Default Changelist" comment="" />
+      <created>1554717422230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554717422230</updated>
+      <workItem from="1554717425990" duration="34334000" />
+      <workItem from="1554877724468" duration="27158000" />
+      <workItem from="1554963765401" duration="16454000" />
+      <workItem from="1555007415198" duration="1194000" />
+      <workItem from="1555314455541" duration="2129000" />
+      <workItem from="1562232474674" duration="1361000" />
+      <workItem from="1567087933983" duration="120000" />
+      <workItem from="1580410557815" duration="15771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="359" width="1102" height="683" key="#Project_Structure" timestamp="1580420902277">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="359" width="1102" height="683" key="#Project_Structure/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580420902277" />
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580415878489">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580415878489" />
+    <state x="1086" y="410" key="#com.intellij.ide.util.MemberChooser" timestamp="1580419696850">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="410" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580419696850" />
+    <state x="1011" y="484" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580415877197">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="484" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580415877197" />
+    <state x="1078" y="585" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580415757637">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1078" y="585" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580415757637" />
+    <state width="2517" height="296" key="GridCell.Tab.0.bottom" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.0.bottom/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state width="2517" height="296" key="GridCell.Tab.0.center" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.0.center/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state width="2517" height="296" key="GridCell.Tab.0.left" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.0.left/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state width="2517" height="296" key="GridCell.Tab.0.right" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.0.right/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state width="2517" height="296" key="GridCell.Tab.1.bottom" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.1.bottom/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state width="2517" height="296" key="GridCell.Tab.1.center" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.1.center/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state width="2517" height="296" key="GridCell.Tab.1.left" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.1.left/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state width="2517" height="296" key="GridCell.Tab.1.right" timestamp="1580426343811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="296" key="GridCell.Tab.1.right/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580426343811" />
+    <state x="782" y="343" key="SettingsEditor" timestamp="1580420644589">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="343" key="SettingsEditor/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580420644589" />
+    <state width="1287" height="707" key="XDebugger.FullValuePopup" timestamp="1580421744350">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1287" height="707" key="XDebugger.FullValuePopup/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580421744350" />
+    <state x="977" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1580410574627">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="977" y="524" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580410574627" />
+    <state x="976" y="437" width="609" height="526" key="find.popup" timestamp="1580423382193">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="437" width="609" height="526" key="find.popup/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580423382193" />
+    <state x="921" y="427" width="700" height="530" key="recent.locations.popup" timestamp="1580419757433">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="921" y="427" width="700" height="530" key="recent.locations.popup/-1920.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1580419757433" />
+  </component>
+</project>
